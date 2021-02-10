@@ -5,4 +5,4 @@
 
 My repository with all my solutions for CP problemsets, for example, CSES.
 
-<img src = "https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=stealth.py&color=000000">
+[![created-by](https://img.shields.io/badge/Created%20by-Stealth.py-black)]
