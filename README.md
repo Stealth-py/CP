@@ -5,4 +5,4 @@
 
 My repository with all my solutions for CP problemsets, for example, CSES.
 
-[![created-by](https://img.shields.io/badge/Created%20by-Stealth.py-black)]
+![created-by](https://img.shields.io/badge/Created%20by-Stealth.py-black)
